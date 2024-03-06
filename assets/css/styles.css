@@ -36,6 +36,19 @@ body {
     padding-bottom: 1%;   
 }
 
+.card {
+    background-color: rgb(62, 174, 248);
+}
+
+.card-img-top {
+    height: 200px; 
+    object-fit: cover; 
+}
+
+.wrap {
+    padding-left: 8%;
+    padding-right: 8%;
+}
 
 @media (max-width: 992px) {
     .navbar-nav .nav-link {
